@@ -1,0 +1,501 @@
+Product_id,Category,Brand,Avg selling price,Final price,Product Name
+1,Home Decor,Zenith,1013,735,Wall Clock
+2,Electronics,FlexiFit,996,736,Fitness Band
+3,Accessories,Zenith,1542,1282,Backpack
+4,Electronics,SkyLine,1007,765,Bluetooth Speaker
+5,Groceries,NovaTech,1317,1072,Rice Pack
+6,Groceries,BrightWave,1839,1533,Groceries
+7,Clothing,Zenith,1378,1124,Clothing
+8,Groceries,UrbanStyle,1828,1523,Groceries
+9,Accessories,PeakGear,1594,1332,Accessories
+10,Home Decor,PrimeCraft,486,227,Home Decor
+11,Clothing,EcoGlow,1212,971,Clothing
+12,Home Decor,BrightWave,850,592,Home Decor
+13,Home Decor,EcoGlow,1704,1429,Home Decor
+14,Accessories,Trendora,1653,1391,Accessories
+15,Electronics,FlexiFit,2002,1739,Smart Scale
+16,Electronics,FlexiFit,1280,1012,Earbuds
+17,Electronics,PeakGear,666,413,Electronics
+18,Groceries,BrightWave,1394,1128,Groceries
+19,Electronics,NovaTech,1496,1229,Smart TV
+20,Accessories,UrbanStyle,1377,1117,Accessories
+21,Groceries,PeakGear,928,642,Groceries
+22,Electronics,Zenith,2013,1751,Electronics
+23,Home Decor,BrightWave,838,591,Home Decor
+24,Accessories,SkyLine,631,371,Travel Bag
+25,Accessories,Trendora,951,697,Accessories
+26,Clothing,BrightWave,309,63,Clothing
+27,Accessories,UrbanStyle,1687,1430,Accessories
+28,Home Decor,Zenith,1822,1556,Table Lamp
+29,Accessories,BrightWave,919,667,Accessories
+30,Clothing,NovaTech,666,408,Clothing
+31,Accessories,FlexiFit,1652,1391,Gym Bag
+32,Accessories,BrightWave,1392,1148,Accessories
+33,Clothing,EcoGlow,1919,1664,Clothing
+34,Accessories,PeakGear,508,243,Accessories
+35,Groceries,PeakGear,673,412,Groceries
+36,Accessories,Trendora,1419,1169,Accessories
+37,Electronics,FlexiFit,1359,1113,Smart Watch
+38,Electronics,PrimeCraft,1076,817,Electronics
+39,Groceries,EcoGlow,715,446,Groceries
+40,Accessories,SkyLine,420,156,Cap
+41,Home Decor,EcoGlow,1347,1090,Home Decor
+42,Accessories,PrimeCraft,843,576,Accessories
+43,Electronics,EcoGlow,1319,1099,Electronics
+44,Clothing,EcoGlow,1091,833,Clothing
+45,Groceries,BrightWave,1844,1572,Groceries
+46,Clothing,PrimeCraft,835,574,Clothing
+47,Home Decor,EcoGlow,2079,1832,Home Decor
+48,Accessories,UrbanStyle,2062,1799,Accessories
+49,Home Decor,UrbanStyle,2011,1736,Home Decor
+50,Clothing,PrimeCraft,2136,1877,Clothing
+51,Accessories,Trendora,1372,1116,Accessories
+52,Home Decor,NovaTech,946,675,LED Lamp
+53,Electronics,EcoGlow,2193,1915,Electronics
+54,Electronics,PrimeCraft,1923,1666,Electronics
+55,Groceries,FlexiFit,657,399,Protein Oats
+56,Electronics,FlexiFit,1986,1726,Fitness Band
+57,Electronics,SkyLine,1359,1133,Tablet
+58,Clothing,FlexiFit,1786,1514,Clothing
+59,Electronics,NovaTech,1321,1101,Wireless Earbuds
+60,Electronics,PrimeCraft,842,591,Electronics
+61,Clothing,Trendora,1795,1528,Clothing
+62,Electronics,PeakGear,2116,1851,Electronics
+63,Electronics,FlexiFit,1944,1684,Smart Scale
+64,Groceries,EcoGlow,1265,1011,Groceries
+65,Electronics,NovaTech,403,143,Laptop
+66,Electronics,PeakGear,2064,1796,Electronics
+67,Groceries,SkyLine,1625,1368,Groceries
+68,Electronics,PeakGear,1886,1622,Electronics
+69,Electronics,NovaTech,1215,948,Smartwatch
+70,Electronics,UrbanStyle,393,138,Electronics
+71,Clothing,Trendora,807,552,Clothing
+72,Clothing,FlexiFit,1073,816,Clothing
+73,Electronics,NovaTech,527,263,Smart TV
+74,Groceries,FlexiFit,1761,1467,Peanut Butter
+75,Clothing,EcoGlow,842,575,Clothing
+76,Groceries,SkyLine,499,241,Groceries
+77,Home Decor,FlexiFit,2145,1880,Home Decor
+78,Groceries,PrimeCraft,992,743,Groceries
+79,Accessories,PrimeCraft,951,691,Accessories
+80,Electronics,Zenith,1553,1297,Electronics
+81,Clothing,SkyLine,863,604,Clothing
+82,Groceries,Zenith,2025,1766,Organic Honey
+83,Groceries,BrightWave,698,582,Groceries
+84,Accessories,UrbanStyle,992,730,Accessories
+85,Accessories,EcoGlow,1089,825,Accessories
+86,Electronics,EcoGlow,1788,1547,Electronics
+87,Clothing,UrbanStyle,1938,1681,Clothing
+88,Electronics,EcoGlow,510,252,Electronics
+89,Accessories,FlexiFit,1323,1059,Water Bottle
+90,Groceries,Zenith,758,496,Spices
+91,Accessories,EcoGlow,2161,1906,Accessories
+92,Home Decor,NovaTech,2182,1920,Smart Light
+93,Groceries,FlexiFit,1208,949,Muesli
+94,Electronics,FlexiFit,1401,1141,Earbuds
+95,Groceries,SkyLine,1441,1165,Groceries
+96,Home Decor,SkyLine,1095,827,Floor Lamp
+97,Accessories,PeakGear,2171,1916,Accessories
+98,Clothing,FlexiFit,481,227,Clothing
+99,Electronics,PrimeCraft,1998,1736,Electronics
+100,Clothing,Trendora,1121,878,Clothing
+101,Accessories,PeakGear,864,608,Accessories
+102,Clothing,PrimeCraft,1342,1118,Clothing
+103,Home Decor,UrbanStyle,412,152,Home Decor
+104,Accessories,BrightWave,1611,1346,Accessories
+105,Clothing,Zenith,1862,1551,Clothing
+106,Electronics,NovaTech,428,165,Wireless Earbuds
+107,Accessories,NovaTech,1159,908,Accessories
+108,Accessories,FlexiFit,2247,1985,Yoga Mat
+109,Groceries,PeakGear,774,513,Groceries
+110,Clothing,PrimeCraft,410,153,Clothing
+111,Electronics,Trendora,562,308,Electronics
+112,Home Decor,PrimeCraft,1655,1381,Home Decor
+113,Accessories,UrbanStyle,1697,1440,Accessories
+114,Home Decor,EcoGlow,1233,978,Home Decor
+115,Home Decor,Trendora,1114,859,Home Decor
+116,Home Decor,NovaTech,943,691,Air Purifier
+117,Groceries,Trendora,1115,856,Groceries
+118,Home Decor,UrbanStyle,1339,1072,Home Decor
+119,Clothing,NovaTech,1633,1375,Clothing
+120,Clothing,SkyLine,869,609,Clothing
+121,Electronics,FlexiFit,334,76,Smart Watch
+122,Electronics,NovaTech,809,557,Laptop
+123,Home Decor,SkyLine,853,576,Curtain Set
+124,Home Decor,BrightWave,1075,824,Home Decor
+125,Groceries,NovaTech,1691,1438,Cooking Oil
+126,Home Decor,BrightWave,1259,1002,Home Decor
+127,Home Decor,Trendora,611,347,Home Decor
+128,Home Decor,BrightWave,1092,826,Home Decor
+129,Accessories,UrbanStyle,669,410,Accessories
+130,Accessories,NovaTech,1992,1719,Accessories
+131,Groceries,UrbanStyle,805,553,Groceries
+132,Groceries,PrimeCraft,894,637,Groceries
+133,Electronics,PeakGear,328,79,Electronics
+134,Groceries,Zenith,1775,1512,Oats
+135,Clothing,Zenith,1661,1413,Clothing
+136,Home Decor,SkyLine,423,175,Mirror
+137,Groceries,BrightWave,906,645,Groceries
+138,Electronics,Zenith,1897,1639,Electronics
+139,Groceries,EcoGlow,1696,1439,Groceries
+140,Clothing,UrbanStyle,2133,1868,Clothing
+141,Electronics,EcoGlow,2194,1828,Electronics
+142,Electronics,Trendora,1780,1516,Electronics
+143,Clothing,UrbanStyle,568,312,Clothing
+144,Clothing,NovaTech,1238,985,Clothing
+145,Accessories,NovaTech,1182,921,Accessories
+146,Groceries,NovaTech,1554,1295,Green Tea
+147,Electronics,NovaTech,2178,1815,Smartwatch
+148,Groceries,BrightWave,306,51,Groceries
+149,Groceries,Zenith,2241,1983,Coffee
+150,Accessories,UrbanStyle,688,443,Accessories
+151,Groceries,SkyLine,624,355,Groceries
+152,Clothing,NovaTech,1481,1219,Clothing
+153,Groceries,SkyLine,842,579,Groceries
+154,Electronics,Zenith,842,577,Electronics
+155,Electronics,SkyLine,1641,1381,Monitor
+156,Accessories,EcoGlow,1284,1014,Accessories
+157,Clothing,Zenith,987,720,Clothing
+158,Accessories,EcoGlow,1670,1413,Accessories
+159,Electronics,PrimeCraft,2260,1992,Electronics
+160,Clothing,PrimeCraft,677,564,Clothing
+161,Electronics,Trendora,1113,859,Electronics
+162,Clothing,SkyLine,508,258,Clothing
+163,Home Decor,UrbanStyle,1265,1007,Home Decor
+164,Clothing,SkyLine,525,254,Clothing
+165,Groceries,Zenith,933,777,Organic Honey
+166,Home Decor,PeakGear,2028,1690,Home Decor
+167,Accessories,PrimeCraft,1030,770,Accessories
+168,Clothing,UrbanStyle,933,685,Clothing
+169,Accessories,UrbanStyle,1352,1088,Accessories
+170,Clothing,BrightWave,1169,907,Clothing
+171,Electronics,BrightWave,1770,1501,Electronics
+172,Electronics,UrbanStyle,781,525,Electronics
+173,Groceries,NovaTech,587,347,Dry Fruits
+174,Electronics,FlexiFit,860,606,Fitness Band
+175,Home Decor,UrbanStyle,1425,1167,Home Decor
+176,Home Decor,BrightWave,415,156,Home Decor
+177,Clothing,PeakGear,1752,1492,Clothing
+178,Accessories,PeakGear,1611,1351,Accessories
+179,Home Decor,BrightWave,430,359,Home Decor
+180,Clothing,Zenith,759,508,Clothing
+181,Accessories,Trendora,345,87,Accessories
+182,Electronics,Zenith,1957,1682,Electronics
+183,Clothing,NovaTech,517,247,Clothing
+184,Accessories,UrbanStyle,2031,1777,Accessories
+185,Groceries,FlexiFit,669,406,Energy Bar
+186,Groceries,PeakGear,308,56,Groceries
+187,Home Decor,FlexiFit,1884,1629,Home Decor
+188,Accessories,Zenith,1666,1405,Wallet
+189,Groceries,PeakGear,825,568,Groceries
+190,Home Decor,BrightWave,499,243,Home Decor
+191,Clothing,UrbanStyle,617,365,Clothing
+192,Clothing,UrbanStyle,1339,1074,Clothing
+193,Accessories,EcoGlow,1387,1135,Accessories
+194,Accessories,BrightWave,647,392,Accessories
+195,Accessories,Trendora,905,650,Accessories
+196,Electronics,BrightWave,1334,1091,Electronics
+197,Groceries,EcoGlow,923,669,Groceries
+198,Groceries,PeakGear,1982,1720,Groceries
+199,Home Decor,Zenith,1708,1444,Wall Art
+200,Groceries,UrbanStyle,1125,871,Groceries
+201,Clothing,PrimeCraft,1919,1652,Clothing
+202,Home Decor,EcoGlow,1933,1610,Home Decor
+203,Groceries,Zenith,1971,1723,Spices
+204,Accessories,Zenith,2041,1774,Sunglasses
+205,Groceries,EcoGlow,1903,1644,Groceries
+206,Electronics,UrbanStyle,2038,1772,Electronics
+207,Home Decor,PeakGear,549,284,Home Decor
+208,Groceries,BrightWave,1408,1142,Groceries
+209,Groceries,FlexiFit,750,625,Protein Oats
+210,Clothing,PeakGear,917,765,Clothing
+211,Accessories,EcoGlow,326,57,Accessories
+212,Accessories,Trendora,782,511,Accessories
+213,Clothing,EcoGlow,1311,1049,Clothing
+214,Clothing,UrbanStyle,1650,1384,Clothing
+215,Electronics,SkyLine,446,183,Headphones
+216,Home Decor,PrimeCraft,689,434,Home Decor
+217,Electronics,FlexiFit,361,105,Smart Scale
+218,Clothing,BrightWave,1293,1042,Clothing
+219,Clothing,Trendora,1688,1433,Clothing
+220,Home Decor,BrightWave,1453,1187,Home Decor
+221,Clothing,FlexiFit,1425,1161,Clothing
+222,Electronics,EcoGlow,443,187,Electronics
+223,Home Decor,PrimeCraft,1436,1181,Home Decor
+224,Electronics,Zenith,1841,1573,Electronics
+225,Groceries,PrimeCraft,853,584,Groceries
+226,Accessories,EcoGlow,455,193,Accessories
+227,Clothing,Trendora,1184,918,Clothing
+228,Home Decor,Trendora,957,797,Home Decor
+229,Electronics,UrbanStyle,359,105,Electronics
+230,Accessories,PrimeCraft,938,669,Accessories
+231,Accessories,BrightWave,2210,1936,Accessories
+232,Clothing,BrightWave,1349,1079,Clothing
+233,Accessories,FlexiFit,866,721,Gloves
+234,Clothing,SkyLine,764,496,Clothing
+235,Groceries,NovaTech,1719,1458,Rice Pack
+236,Clothing,Trendora,1632,1380,Clothing
+237,Electronics,BrightWave,1181,923,Electronics
+238,Accessories,Zenith,2193,1930,Belt
+239,Accessories,NovaTech,942,688,Accessories
+240,Accessories,NovaTech,1638,1375,Accessories
+241,Clothing,SkyLine,1965,1706,Clothing
+242,Home Decor,EcoGlow,1737,1478,Home Decor
+243,Clothing,PrimeCraft,918,765,Clothing
+244,Electronics,BrightWave,2013,1751,Electronics
+245,Electronics,SkyLine,1140,886,Bluetooth Speaker
+246,Accessories,SkyLine,2161,1904,Watch Strap
+247,Groceries,EcoGlow,2087,1826,Groceries
+248,Electronics,BrightWave,1892,1635,Electronics
+249,Groceries,PrimeCraft,1085,829,Groceries
+250,Electronics,Zenith,1142,886,Electronics
+251,Electronics,UrbanStyle,831,559,Electronics
+252,Accessories,SkyLine,1415,1146,Laptop Sleeve
+253,Clothing,SkyLine,1118,861,Clothing
+254,Accessories,NovaTech,877,731,Accessories
+255,Accessories,UrbanStyle,570,314,Accessories
+256,Accessories,UrbanStyle,1559,1300,Accessories
+257,Groceries,Trendora,1529,1266,Groceries
+258,Electronics,Trendora,1702,1447,Electronics
+259,Home Decor,UrbanStyle,2075,1824,Home Decor
+260,Clothing,Trendora,323,59,Clothing
+261,Accessories,NovaTech,618,351,Accessories
+262,Electronics,UrbanStyle,1692,1432,Electronics
+263,Clothing,BrightWave,2073,1813,Clothing
+264,Home Decor,FlexiFit,1112,854,Home Decor
+265,Home Decor,BrightWave,1400,1167,Home Decor
+266,Accessories,Zenith,2079,1825,Backpack
+267,Home Decor,Trendora,410,148,Home Decor
+268,Home Decor,PrimeCraft,904,642,Home Decor
+269,Clothing,Zenith,1358,1086,Clothing
+270,Clothing,FlexiFit,1736,1463,Clothing
+271,Accessories,SkyLine,662,406,Travel Bag
+272,Electronics,PrimeCraft,1982,1713,Electronics
+273,Accessories,UrbanStyle,2149,1889,Accessories
+274,Groceries,BrightWave,1234,977,Groceries
+275,Home Decor,NovaTech,317,60,Diffuser
+276,Electronics,PeakGear,378,130,Electronics
+277,Clothing,NovaTech,1595,1334,Clothing
+278,Groceries,PeakGear,326,55,Groceries
+279,Groceries,PeakGear,1783,1531,Groceries
+280,Home Decor,BrightWave,693,422,Home Decor
+281,Clothing,SkyLine,788,530,Clothing
+282,Electronics,PeakGear,532,271,Electronics
+283,Clothing,NovaTech,2258,1990,Clothing
+284,Home Decor,NovaTech,2148,1883,LED Lamp
+285,Electronics,PrimeCraft,1420,1154,Electronics
+286,Home Decor,FlexiFit,2245,1996,Home Decor
+287,Accessories,SkyLine,833,564,Cap
+288,Groceries,UrbanStyle,1379,1133,Groceries
+289,Home Decor,UrbanStyle,537,270,Home Decor
+290,Electronics,PrimeCraft,661,398,Electronics
+291,Electronics,PrimeCraft,1890,1634,Electronics
+292,Electronics,UrbanStyle,533,277,Electronics
+293,Accessories,FlexiFit,592,339,Gym Bag
+294,Clothing,Trendora,607,506,Clothing
+295,Electronics,SkyLine,1118,932,Tablet
+296,Accessories,SkyLine,1528,1266,Watch Strap
+297,Electronics,Zenith,1259,1005,Electronics
+298,Accessories,NovaTech,1799,1547,Accessories
+299,Electronics,NovaTech,1586,1330,Smart TV
+300,Clothing,Trendora,1832,1579,Clothing
+301,Home Decor,Zenith,701,437,Vase
+302,Electronics,SkyLine,925,664,Monitor
+303,Home Decor,Trendora,1744,1471,Home Decor
+304,Electronics,Zenith,681,415,Electronics
+305,Clothing,Zenith,966,707,Clothing
+306,Home Decor,PeakGear,589,339,Home Decor
+307,Accessories,EcoGlow,2105,1842,Accessories
+308,Electronics,Zenith,1622,1382,Electronics
+309,Electronics,BrightWave,1610,1351,Electronics
+310,Accessories,BrightWave,1802,1537,Accessories
+311,Clothing,SkyLine,503,238,Clothing
+312,Groceries,PrimeCraft,1218,967,Groceries
+313,Electronics,UrbanStyle,1513,1251,Electronics
+314,Accessories,BrightWave,1850,1601,Accessories
+315,Groceries,PrimeCraft,1228,1023,Groceries
+316,Electronics,EcoGlow,1292,1037,Electronics
+317,Home Decor,PeakGear,674,424,Home Decor
+318,Accessories,PrimeCraft,1924,1671,Accessories
+319,Home Decor,FlexiFit,1071,809,Home Decor
+320,Clothing,PeakGear,1797,1527,Clothing
+321,Groceries,SkyLine,539,266,Groceries
+322,Accessories,Zenith,1374,1115,Wallet
+323,Electronics,PeakGear,515,243,Electronics
+324,Electronics,Zenith,1649,1400,Electronics
+325,Groceries,Zenith,1695,1446,Oats
+326,Home Decor,BrightWave,1797,1538,Home Decor
+327,Home Decor,PrimeCraft,473,212,Home Decor
+328,Accessories,PeakGear,576,325,Accessories
+329,Accessories,PeakGear,676,413,Accessories
+330,Home Decor,PeakGear,1985,1715,Home Decor
+331,Accessories,EcoGlow,1078,824,Accessories
+332,Home Decor,FlexiFit,787,656,Home Decor
+333,Groceries,SkyLine,999,738,Groceries
+334,Accessories,UrbanStyle,770,642,Accessories
+335,Home Decor,PeakGear,1591,1338,Home Decor
+336,Accessories,PrimeCraft,840,588,Accessories
+337,Electronics,EcoGlow,1276,1023,Electronics
+338,Electronics,SkyLine,1711,1459,Headphones
+339,Clothing,BrightWave,389,324,Clothing
+340,Home Decor,NovaTech,2038,1781,Smart Light
+341,Clothing,SkyLine,1649,1389,Clothing
+342,Home Decor,PeakGear,548,292,Home Decor
+343,Accessories,UrbanStyle,1797,1542,Accessories
+344,Home Decor,PeakGear,1192,993,Home Decor
+345,Electronics,Zenith,1673,1415,Electronics
+346,Accessories,UrbanStyle,1511,1250,Accessories
+347,Electronics,UrbanStyle,1465,1203,Electronics
+348,Accessories,Trendora,975,813,Accessories
+349,Home Decor,Zenith,1420,1156,Wall Clock
+350,Home Decor,SkyLine,1694,1433,Shelf
+351,Electronics,Trendora,406,137,Electronics
+352,Groceries,PeakGear,1860,1605,Groceries
+353,Home Decor,Trendora,1058,791,Home Decor
+354,Groceries,UrbanStyle,1303,1086,Groceries
+355,Accessories,UrbanStyle,1974,1711,Accessories
+356,Groceries,Trendora,793,661,Groceries
+357,Electronics,BrightWave,1827,1571,Electronics
+358,Clothing,PrimeCraft,1836,1580,Clothing
+359,Clothing,SkyLine,1687,1427,Clothing
+360,Electronics,EcoGlow,729,465,Electronics
+361,Clothing,UrbanStyle,1388,1124,Clothing
+362,Electronics,SkyLine,1937,1673,Bluetooth Speaker
+363,Home Decor,UrbanStyle,992,731,Home Decor
+364,Groceries,NovaTech,1392,1136,Cooking Oil
+365,Clothing,PeakGear,1411,1162,Clothing
+366,Home Decor,Trendora,2034,1774,Home Decor
+367,Clothing,EcoGlow,1524,1263,Clothing
+368,Accessories,UrbanStyle,1217,948,Accessories
+369,Electronics,Zenith,903,650,Electronics
+370,Electronics,FlexiFit,1686,1405,Earbuds
+371,Home Decor,Trendora,2174,1917,Home Decor
+372,Accessories,PrimeCraft,1862,1611,Accessories
+373,Groceries,PeakGear,1499,1249,Groceries
+374,Accessories,Trendora,1698,1437,Accessories
+375,Electronics,BrightWave,1080,825,Electronics
+376,Groceries,PeakGear,1210,950,Groceries
+377,Groceries,PrimeCraft,2241,1980,Groceries
+378,Accessories,PrimeCraft,1876,1627,Accessories
+379,Clothing,Trendora,791,532,Clothing
+380,Clothing,PrimeCraft,1462,1192,Clothing
+381,Accessories,Zenith,471,218,Sunglasses
+382,Clothing,Trendora,1940,1693,Clothing
+383,Groceries,FlexiFit,459,382,Peanut Butter
+384,Groceries,Trendora,2009,1761,Groceries
+385,Clothing,PeakGear,1764,1510,Clothing
+386,Groceries,NovaTech,752,488,Green Tea
+387,Electronics,Trendora,1180,937,Electronics
+388,Groceries,UrbanStyle,1513,1262,Groceries
+389,Accessories,Zenith,474,209,Belt
+390,Home Decor,PeakGear,1105,863,Home Decor
+391,Clothing,Zenith,2176,1933,Clothing
+392,Clothing,NovaTech,709,451,Clothing
+393,Groceries,UrbanStyle,888,635,Groceries
+394,Groceries,Trendora,1171,913,Groceries
+395,Home Decor,NovaTech,1346,1122,Air Purifier
+396,Home Decor,Zenith,454,189,Table Lamp
+397,Accessories,BrightWave,1455,1188,Accessories
+398,Electronics,SkyLine,648,377,Tablet
+399,Accessories,SkyLine,542,274,Laptop Sleeve
+400,Clothing,Zenith,859,607,Clothing
+401,Groceries,PrimeCraft,742,488,Groceries
+402,Accessories,EcoGlow,1877,1623,Accessories
+403,Groceries,SkyLine,2052,1710,Groceries
+404,Groceries,EcoGlow,692,435,Groceries
+405,Accessories,PrimeCraft,827,570,Accessories
+406,Accessories,UrbanStyle,1586,1326,Accessories
+407,Home Decor,PrimeCraft,920,669,Home Decor
+408,Electronics,Zenith,2232,1974,Electronics
+409,Home Decor,PeakGear,1428,1171,Home Decor
+410,Electronics,NovaTech,1087,836,Wireless Earbuds
+411,Accessories,Zenith,1401,1144,Backpack
+412,Electronics,PeakGear,865,600,Electronics
+413,Clothing,UrbanStyle,2147,1883,Clothing
+414,Home Decor,BrightWave,2261,1986,Home Decor
+415,Home Decor,Zenith,749,496,Wall Art
+416,Electronics,UrbanStyle,1429,1163,Electronics
+417,Groceries,Trendora,1762,1503,Groceries
+418,Groceries,BrightWave,1551,1292,Groceries
+419,Accessories,PrimeCraft,426,156,Accessories
+420,Accessories,FlexiFit,1818,1549,Water Bottle
+421,Groceries,PeakGear,1229,965,Groceries
+422,Home Decor,BrightWave,1783,1527,Home Decor
+423,Groceries,PeakGear,1218,953,Groceries
+424,Electronics,NovaTech,1939,1681,Laptop
+425,Home Decor,BrightWave,2240,1988,Home Decor
+426,Electronics,PeakGear,856,713,Electronics
+427,Accessories,FlexiFit,1445,1199,Yoga Mat
+428,Groceries,FlexiFit,1481,1220,Muesli
+429,Clothing,BrightWave,591,329,Clothing
+430,Groceries,Trendora,338,73,Groceries
+431,Home Decor,EcoGlow,1260,1001,Home Decor
+432,Groceries,NovaTech,2050,1794,Dry Fruits
+433,Electronics,PeakGear,431,169,Electronics
+434,Electronics,PeakGear,2126,1859,Electronics
+435,Clothing,SkyLine,1982,1725,Clothing
+436,Home Decor,NovaTech,1628,1370,Diffuser
+437,Accessories,NovaTech,1162,968,Accessories
+438,Clothing,Zenith,1323,1065,Clothing
+439,Groceries,FlexiFit,1259,993,Energy Bar
+440,Clothing,Zenith,1416,1155,Clothing
+441,Electronics,PrimeCraft,761,497,Electronics
+442,Clothing,EcoGlow,2249,1985,Clothing
+443,Clothing,NovaTech,2051,1793,Clothing
+444,Groceries,PrimeCraft,1297,1045,Groceries
+445,Groceries,EcoGlow,2253,1992,Groceries
+446,Home Decor,Trendora,1798,1543,Home Decor
+447,Groceries,EcoGlow,1760,1496,Groceries
+448,Clothing,FlexiFit,1871,1559,Clothing
+449,Electronics,PrimeCraft,1370,1142,Electronics
+450,Groceries,PrimeCraft,1394,1134,Groceries
+451,Home Decor,Zenith,2150,1896,Vase
+452,Home Decor,EcoGlow,2036,1774,Home Decor
+453,Clothing,PeakGear,384,133,Clothing
+454,Groceries,PeakGear,522,274,Groceries
+455,Groceries,PrimeCraft,2014,1753,Groceries
+456,Home Decor,Zenith,495,235,Wall Clock
+457,Groceries,Zenith,692,424,Coffee
+458,Clothing,FlexiFit,378,315,Clothing
+459,Electronics,BrightWave,381,318,Electronics
+460,Clothing,Zenith,2228,1970,Clothing
+461,Groceries,BrightWave,1674,1414,Groceries
+462,Clothing,FlexiFit,461,202,Clothing
+463,Accessories,PrimeCraft,402,145,Accessories
+464,Accessories,SkyLine,1890,1638,Travel Bag
+465,Groceries,Trendora,753,494,Groceries
+466,Groceries,EcoGlow,2010,1759,Groceries
+467,Electronics,SkyLine,1450,1183,Monitor
+468,Clothing,NovaTech,1791,1531,Clothing
+469,Electronics,FlexiFit,1127,877,Smart Watch
+470,Groceries,Trendora,1388,1124,Groceries
+471,Groceries,BrightWave,679,426,Groceries
+472,Home Decor,PeakGear,1068,890,Home Decor
+473,Electronics,SkyLine,1405,1146,Headphones
+474,Groceries,NovaTech,523,261,Rice Pack
+475,Accessories,PeakGear,1764,1505,Accessories
+476,Home Decor,PrimeCraft,1029,773,Home Decor
+477,Clothing,Zenith,2100,1836,Clothing
+478,Home Decor,FlexiFit,1501,1241,Home Decor
+479,Electronics,UrbanStyle,1074,824,Electronics
+480,Accessories,EcoGlow,641,534,Accessories
+481,Clothing,PeakGear,2070,1815,Clothing
+482,Electronics,SkyLine,1068,800,Bluetooth Speaker
+483,Clothing,FlexiFit,2121,1860,Clothing
+484,Clothing,SkyLine,1831,1567,Clothing
+485,Home Decor,UrbanStyle,1481,1216,Home Decor
+486,Accessories,NovaTech,1924,1603,Accessories
+487,Clothing,BrightWave,1787,1518,Clothing
+488,Electronics,SkyLine,1126,873,Tablet
+489,Home Decor,FlexiFit,705,588,Home Decor
+490,Electronics,Zenith,810,561,Electronics
+491,Accessories,NovaTech,1005,837,Accessories
+492,Groceries,Zenith,2196,1921,Organic Honey
+493,Electronics,BrightWave,939,670,Electronics
+494,Home Decor,PrimeCraft,2051,1788,Home Decor
+495,Home Decor,SkyLine,2042,1770,Floor Lamp
+496,Electronics,PeakGear,2145,1876,Electronics
+497,Electronics,UrbanStyle,1669,1391,Electronics
+498,Clothing,SkyLine,909,757,Clothing
+499,Electronics,FlexiFit,1591,1332,Fitness Band
+500,Electronics,Trendora,2170,1907,Electronics
